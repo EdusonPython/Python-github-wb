@@ -1,10 +1,10 @@
-# Math formulas
+## Formulas
 ## Area
-- Circle: S = πR²
-- Rectangle: S = ab
-- Square: S = a²
+- circle: S = πR²
+- rectangle: S = ab
+- square: S = a²
 
 ## Perimeter
-- Circle: P = 2πR
-- Rectangle: P = 2a + 2b
-- Square: P = 4a
+- circle: P = 2πR
+- rectangle: P = 2a + 2b
+- square: P = 4a
