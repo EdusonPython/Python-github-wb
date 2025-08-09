@@ -10,3 +10,4 @@
 - Square: P = 4a
 
 ## Neural formula
+- N = ((P²+S²)²)²
