@@ -3,7 +3,7 @@
 - Circle: S = πR²
 - Rectangle: S = ab
 - Square: S = a²
-- Triangle: S = 0.5*h*b
+- Triangle: S = 0.5*h*b or S = 0.5*sin(alpha)*a*b
 
 ## Perimeter
 - Circle: P = 2πR
