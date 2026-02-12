@@ -7,3 +7,5 @@ def area(r):
 
 def perimeter(r):
     return 2 * math.pi * r
+
+print(area(2), perimeter(2))
