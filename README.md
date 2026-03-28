@@ -11,4 +11,3 @@
 
 ## Volume
 - Cube: V = a³
-- Sphere: V = 4/3πR³
