@@ -1,4 +1,6 @@
-# Math formulas
+﻿# Math formulas
+# I'v changwd this file on PC @IVGit
+
 ## Area
 - Circle: S = πR²
 - Rectangle: S = ab
