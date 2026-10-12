@@ -1,4 +1,6 @@
-# Math formulas
+git # Math formulas
+
+## Файл изменил Дмитрий
 ## Area
 - Circle: S = πR²
 - Rectangle: S = ab
